@@ -1,0 +1,4 @@
+Hi, this is Binaya and I want to
+learn python programming and be
+good at it.
+I want to develope a game with python.
